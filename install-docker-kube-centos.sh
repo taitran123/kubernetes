@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Cập nhật 12/2019
 
 # Cai dat Docker
 yum install -y yum-utils device-mapper-persistent-data lvm2
